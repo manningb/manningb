@@ -18,7 +18,7 @@ I'm Brian! I'm an **Msc Computer Science Student in UCD**, looking to solve **re
   <a href="https://www.hackerrank.com/manningbrian98"><img src="https://img.shields.io/badge/-manningbrian98-islamicgreen?style=flat&logo=HackerRank&logoColor=black"/></a>
   <a href="https://www.kaggle.com/brianmanning98"><img src="https://img.shields.io/badge/-manningbrian98-deepskyblue?style=flat&logo=kaggle&logoColor=white"/></a>
   <a href="https://gitstats.me/manningb"><img src="https://img.shields.io/badge/-manningb-black?style=flat&labelColor=black&logo=github&logoColor=white"/></a>
-    <a href="https://stackoverflow.com/users/14386294/brian"><img src="https://img.shields.io/badge/-manningb-black?style=flat&logo=stackoverflow"/></a>
+    <a href="https://stackoverflow.com/users/14386294/brian"><img src="https://img.shields.io/badge/-manningb-white?style=flat&logo=stackoverflow"/></a>
 </p>
 
 <p float="left">
