@@ -1,0 +1,15 @@
+name: Update Cached image on push to repo
+on: 
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  Explore-GitHub-Actions:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
+      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
+      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+      - run: curl -X PURGE https://camo.githubusercontent.com/2f9a83cefee70c874e7650aa8357a699aa8acf34e8ea910c10bc05cfa8f8d616/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d616e6e696e6762266c61796f75743d636f6d70616374
