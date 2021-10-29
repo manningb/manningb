@@ -36,5 +36,5 @@ I'm Brian! I'm an **Msc Computer Science Student in UCD**, looking to solve **re
 <p float="left">	
   <!--<img height="200" src="https://github-readme-stats.vercel.app/api?username=manningb&show_icons=true">-->
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manningb&layout=compact"/>	
-  
+   
 </p>
