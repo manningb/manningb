@@ -7,7 +7,7 @@
 
 <!--Introduction -->
 
-I'm Brian! I'm an **Msc Computer Science Student in UCD**, looking to solve **real-world problems**. I'm passionate about  creating software and tools to help people:computer:.
+I'm Brian! I'm a Software Engineer at Stripe. I previously studied the **Msc Computer Science Student in UCD**. I'm looking to solve **real-world problems**. I'm passionate about  creating software and tools to help people:computer:.
 <p float="left">
 <!--<a href="https://badges.pufler.dev"><img src="https://badges.pufler.dev/visits/manningb/manningb"/></a>-->
   <a href="https://www.linkedin.com/in/manning-brian/"><img src="https://img.shields.io/badge/manning--brian-blue?style=flat&logo=Linkedin&logoColor=white"/></a>
